@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Titre de la page</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+ 
+
+<p>Dear <span id="beloved"></span>,</p>
+
+<p>Mon Cher Quentin,
+
+Il y a quelque chose de magique dans la façon dont ton sourire éclaire mes journées et dont ton regard me fait me perdre dans un océan d'amour et de tendresse. Je ressens le besoin de mettre en mots ce que je ressens chaque fois que je pense à toi, chaque fois que nos regards se croisent et que nos mains se touchent.
+
+Depuis que tu es entré dans ma vie, tout a pris un sens plus profond et plus riche. Tu es devenu la lueur douce et chaleureuse qui éclaire mon cœur, illuminant chaque coin sombre avec ton amour inconditionnel. Dans tes bras, je trouve la paix et la sécurité, et dans ton regard, je découvre un monde où l'amour est infini.
+
+Quentin, tu es l'étoile qui guide mes nuits, la lune qui éclaire mes rêves. Chaque moment passé à tes côtés est un trésor précieux que je chérirai pour l'éternité. Ton rire est ma mélodie préférée, et ta voix est ma chanson d'amour préférée. Quand tu es près de moi, le temps semble s'arrêter, et je veux savourer chaque instant avec toi.
+
+Je suis reconnaissant(e) chaque jour pour ta présence dans ma vie. Tu m'as montré ce que c'est que d'aimer de tout son cœur, de se donner complètement à quelqu'un d'autre. Avec toi, je me sens libre d'être moi-même, d'exprimer mes rêves et mes peurs, mes espoirs et mes désirs.
+
+Je veux que tu saches à quel point tu es précieux pour moi. Mon amour pour toi est pur et sincère, et il grandit chaque jour un peu plus, comme une fleur délicate qui s'épanouit sous les doux rayons du soleil. Je suis honoré(e) de partager ma vie avec toi, de construire des souvenirs et des projets d'avenir à deux.
+
+Quentin, je t'aime plus que les mots ne pourraient jamais l'exprimer. Tu es mon âme sœur, mon confident, mon meilleur ami, et mon amour éternel. Merci d'être toi, et merci d'être mien.
+
+Avec tout mon amour,</p>
+
+<p>Faithfully yours,</p>
+<p id="user"></p>
+
+...
+<!-- Le reste du contenu -->
+...
+</body>
+</html>
