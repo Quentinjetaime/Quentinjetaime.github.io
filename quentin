@@ -9,9 +9,9 @@
 <body>
  
 
-<p>Dear <span id="beloved"></span>,</p>
+<p>Mon Cher Quentin<span id="beloved"></span>,</p>
 
-<p>Mon Cher Quentin,
+<p>
 
 Il y a quelque chose de magique dans la façon dont ton sourire éclaire mes journées et dont ton regard me fait me perdre dans un océan d'amour et de tendresse. Je ressens le besoin de mettre en mots ce que je ressens chaque fois que je pense à toi, chaque fois que nos regards se croisent et que nos mains se touchent.
 
@@ -30,8 +30,6 @@ Avec tout mon amour,</p>
 <p>Faithfully yours,</p>
 <p id="user"></p>
 
-...
-<!-- Le reste du contenu -->
-...
+<img src="quentin.png">
 </body>
 </html>
